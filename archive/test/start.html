@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<title>Simple jQuery and JSP example</title>
+	<script src="jquery.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+		
+		$("#selectable").change( function () {
+			var itemsNeeded = parseInt( $(this).val() );	
+			$("#addFieldsHere > p").remove();
+			for ( var i = 0; i < itemsNeeded ; i++ )
+			{
+				//$("#addFieldsHere").append("<p>Insert address : <input type=\"text\" size=\"20\"></input></p>");
+				$("#addFieldsHere").append("*Street address: <input name=\"raddress\" type=\"text\" size=\"25\"/> Suite/apt: <input name=\"rsuite\" type=\"text\" size=\"5\"/><br/> *City: <input name=\"rcity\" type=\"text\" size=\"20\"/> *State: <select name=\"rstate\" size=\"1\"><?php echo createDropdown($statesArray); ?> </select> *Zip: <input name=\"rzip\" id=\"idrzip\" type=\"text\" size=\"5\" maxlength=\"5\" onclick=\"return false;\" onblur=\"validatezip(this.id); return true;\"/> <br><br> ");
+				
+			}
+		});
+	});
+		
+	</script>
+</head>
+<body>
+
+<p>Select a number : <select id="selectable">
+	<option value="0" selected></option>
+	<option value="1">1</option>
+	<option value="2">2</option>
+	<option value="3">3</option>
+	<option value="4">4</option>
+	<option value="5">5</option>
+	<option value="6">6</option>
+	<option value="7">7</option>
+	<option value="8">8</option>
+	<option value="9">9</option>
+	<option value="10">10</option>	
+</select>
+</p>
+
+<p id="addFieldsHere"></p>
+
+</body>
+</html>

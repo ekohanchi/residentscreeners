@@ -1,0 +1,127 @@
+A MySQL error occured for appid: 20100308195838_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308195838_00','') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for appid: 20100308195926_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308195926_00','test firstname','','test lastname','','12','23','3234','acknowledge','Landlord','adf','','sdfadf','CA','23423','1',' sdfasdf,  ,  asdf,  CA,  23423','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','adjflkajd@jlkajdf.com','234-342-3234','342-234-3432','--',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for appid: 20100308201041_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308201041_00','') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for appid: 20100308201212_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308201212_00','') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for appid: 20100308201244_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308201244_00','test firstname','','test lastname','','12','23','3234','acknowledge','Landlord','adf','','sdfadf','CA','23423','1',' sdfasdf,  ,  asdf,  CA,  23423','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','adjflkajd@jlkajdf.com','234-342-3234','342-234-3432','--',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for appid: 20100308201528_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308201528_00','test firstname','','test lastname','','12','23','3234','acknowledge','Landlord','adf','','sdfadf','CA','23423','1',' sdfasdf,  ,  asdf,  CA,  23423','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','adjflkajd@jlkajdf.com','234-342-3234','342-234-3432','--',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for appid: 20100308201703_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308201703_00','test firstname','','test lastname','','12','23','3234','acknowledge','Landlord','adf','','sdfadf','CA','23423','1',' sdfasdf,  ,  asdf,  CA,  23423','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','adjflkajd@jlkajdf.com','234-342-3234','342-234-3432','--',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for appid: 20100308202056_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308202056_00','test firstname','','test lastname','','12','23','3234','acknowledge','Landlord','adf','','sdfadf','CA','23423','1',' sdfasdf,  ,  asdf,  CA,  23423','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','adjflkajd@jlkajdf.com','234-342-3234','342-234-3432','--',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for appid: 20100308205113_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100308205113_00','test firstname','','test lastname','','12','23','3234','acknowledge','Landlord','adf','','sdfadf','CA','23423','1',' sdfasdf,  ,  asdf,  CA,  23423','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','adjflkajd@jlkajdf.com','234-342-3234','342-234-3432','--',) 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+***********************
+A MySQL error occured for appid: 20100321151149_00
+Query: INSERT INTO memapp VALUES ('', now(),'10','20100321151149_00','Test','','','','0','DD','YYYY','','','','','00','','0','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','','--','--','--','') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for srfid: 20100322234842
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100322234842',20100322234842','N/A','03/22/2010','Last Name','First name','','','','','','','yes','','0','YYYY','yes','','yes','0','MM/YYYY','MM/YYYY','MM/YYYY','0','this is the ocmment box...','174') 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','N/A','03/22/2010','Last Name','First name','','','','','','','yes','','0','YY' at line 1
+***********************
+A MySQL error occured for srfid: 20100322235242
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100322235242',20100322235242','N/A','03/22/2010','Last Name','First name','','','','','','','yes','','0','YYYY','yes','','yes','0','MM/YYYY','MM/YYYY','MM/YYYY','0','this is the ocmment box...','174') 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','N/A','03/22/2010','Last Name','First name','','','','','','','yes','','0','YY' at line 1
+***********************
+A MySQL error occured for srfid: 20100323202630
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100323202630',20100323202630','N/A','03/22/2010','Last Name','First name','','','','','','','yes','','0','YYYY','yes','','yes','0','MM/YYYY','MM/YYYY','MM/YYYY','0','this is the ocmment box...','174') 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '','N/A','03/22/2010','Last Name','First name','','','','','','','yes','','0','YY' at line 1
+***********************
+A MySQL error occured for srfid: 20100403130308
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100403130308','test, user','04/03/2010','Franky','Joe','7','7','0','7','8','766','YES','5','12','1980','yes','6','yes','yes','11','n/a','n/a','n/a','Good','Sample comment left in the comment box','162') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for srfid: 20100403130813
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100403130813','test, user','04/03/2010','Franky','Joe','7','7','0','7','8','766','YES','5','12','1980','yes','6','yes','yes','11','n/a','n/a','n/a','Good','Sample comment left in the comment box','162') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for srfid: 20100403132844
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100403132844','test, user','04/03/2010','last name','firstname','8','8','8','8','9','899','YES','','0','YYYY','yes','','yes','0','MM/YYYY','MM/YYYY','MM/YYYY','Good','comments','192') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for srfid: 20100405130722
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100405130722','04/05/2010','franky','joe','8','0','9','7','6','755','YES','323','12','3234','YES','2','','YES','13','MM/YYYY','MM/YYYY','MM/YYYY','Code4','Confirmed','comments box','188','','','','','','test, user','') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for srfid: 20100408201937
+Query: INSERT INTO summaryreport VALUES ('', now(),'100','20100408201937','04/08/2010','Last Name','First name','','','','','','','YES','','0','YYYY','NO','','YES','0','MM/YYYY','MM/YYYY','MM/YYYY','0','0','','200','','','','','','test, user','') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for srfid: 20100429195120 while updating values
+Query: Update  set
+		aplname=Last Name,
+		apfname=First name,
+		crlines=0,
+		crgood=0,
+		crneg=00,
+		crevictions=,
+		crinquires=0,
+		creditscore=999,
+		comments=						klk;kdsf						,
+		charcounter=200
+	 where srfid='20100429195120' 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'set
+		aplname=Last Name,
+		apfname=First name,
+		crlines=0,
+		crgood=0,
+		crneg=' at line 1
+***********************
+A MySQL error occured for srfid: 20100429195120 while updating values
+Query: Update  set
+		aplname=Last Name,
+		apfname=First name,
+		crlines=0,
+		crgood=0,
+		crneg=00,
+		crevictions=,
+		crinquires=0,
+		creditscore=999,
+		comments=						klk;kdsf						,
+		charcounter=200
+	 where srfid='20100429195120' 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'set
+		aplname=Last Name,
+		apfname=First name,
+		crlines=0,
+		crgood=0,
+		crneg=' at line 1
+***********************
+A MySQL error occured for srfid: 20100429195120 while updating values
+Query: Update summaryreport set
+		aplname='Last Name',
+		apfname='First name',
+		crlines='0',
+		crgood='0',
+		crneg='00',
+		crevictions='',
+		crinquires='0',
+		creditscore='999',
+		comments='						klk;kdsf						',
+		charcounter='200',	
+	 where srfid='20100429195120' 
+Error: (1064) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'where srfid='20100429195120'' at line 12
+***********************

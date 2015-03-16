@@ -1,0 +1,2 @@
+1. DONE in memapp.php change field names for current address to:
+curaddress, cursuite, curcity, curstate, curzip
